@@ -4,11 +4,11 @@
 AnimeFaceGAN is a cutting-edge project that implements a Generative Adversarial Network (GAN) entirely in JavaScript using TensorFlow.js. This project has been developed from scratch, providing a transparent view of the entire process—from data preprocessing to model training and image generation. The main goal is to generate high-quality anime faces by leveraging the power of GANs in a browser-friendly environment.
 
 ## Features
-- /**From-Scratch Development**/: All components of the GAN model are implemented from scratch, offering insights into the inner workings of generative models.
-- /**JavaScript Implementation**/: Entirely written in JavaScript, enabling seamless integration with web technologies.
-- /**Anime Face Generation**/: Utilizes a custom GAN architecture specifically tailored for generating detailed and diverse anime faces.
-- /**Customizable**/: Easily modify model parameters and network architecture to experiment with different artistic styles.
-- /**Web Integration**/: Designed to run in web browsers, making it accessible for demos and creative projects.
+- **From-Scratch Development**: All components of the GAN model are implemented from scratch, offering insights into the inner workings of generative models.
+- **JavaScript Implementation**: Entirely written in JavaScript, enabling seamless integration with web technologies.
+- **Anime Face Generation**: Utilizes a custom GAN architecture specifically tailored for generating detailed and diverse anime faces.
+- **Customizable**: Easily modify model parameters and network architecture to experiment with different artistic styles.
+- **Web Integration**: Designed to run in web browsers, making it accessible for demos and creative projects.
 
 ## Data Source
 The training dataset consists of high-quality anime face images sourced from Kaggle. This dataset has been instrumental in training the GAN model to understand and replicate the unique artistic styles found in anime. If you are interested in exploring the dataset further or contributing improvements, you can find it on Kaggle.
